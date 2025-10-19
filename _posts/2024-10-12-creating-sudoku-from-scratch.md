@@ -1,6 +1,6 @@
 ---
 title: "Sudoku Generator in Python"
-date: 2025-10-19 15:00:00 +0000
+date: 2024-10-12 15:00:00 +0000
 categories: [Programming]
 tags: [python, algorithms, projects]
 ---
