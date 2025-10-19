@@ -5,8 +5,6 @@ categories: [Programming]
 tags: [python, algorithms, projects]
 ---
 
-## Sudoku generator in Python
-
 ### Basic idea
 I want to write a program that can generate sudoko puzzles for me. While there are ready made packages out there, I want to solve this problem on my own and build something from scratch. My idea is to first build a 100% solved Sudoku and then randomly hide some cells to create the final puzzle.
 
